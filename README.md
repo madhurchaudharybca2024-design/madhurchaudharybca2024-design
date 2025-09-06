@@ -10,7 +10,7 @@ I'm an **AI Engineer** with a love for Python and a mission to build intelligent
 - 🚀 Experienced AI Engineer specializing in Python.
 - 🎯 Building smart systems, from ML models to automated pipelines.
 - 📚 Lifelong learner, always exploring the latest in AI, deep learning, and data engineering.
-- 🦾 Advocate for open-source, collaboration, and creative innovation.
+- 🧾 Advocate for open-source, collaboration, and creative innovation.
 
 ---
 
@@ -37,7 +37,7 @@ print("Let's code something amazing together!")
 
 ---
 
-## 📈 Stats & Activity
+## 📊 Stats & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=madhurchaudharybca2024-design&show_icons=true&theme=algolia" alt="GitHub stats" />
@@ -46,6 +46,14 @@ print("Let's code something amazing together!")
   <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=madhurchaudharybca2024-design&theme=github_dark" />
 </p>
+
+### 🏆 Recent Projects
+- [AutoML-Pipeline](https://github.com/madhurchaudharybca2024-design/AutoML-Pipeline): Automated machine learning workflow for rapid prototyping.
+- [chatbot-x](https://github.com/madhurchaudharybca2024-design/chatbot-x): Advanced NLP chatbot for customer support automation.
+- [advanced-git-commands-guide](https://github.com/madhurchaudharybca2024-design/advanced-git-commands-guide): Comprehensive guide to advanced Git commands.
+- [madhurchaudharybca2024-design](https://github.com/madhurchaudharybca2024-design/madhurchaudharybca2024-design): My personal GitHub profile and portfolio.
+
+_Stats widgets above update automatically with your latest commits, PRs, and streaks!_
 
 ---
 
@@ -67,7 +75,7 @@ print("Let's code something amazing together!")
 
 ## 💡 AI Quote
 
-> _"A machine is just a machine, until it learns to reason like us — only then does it become something more."_  
+> _"A machine is just a machine, until it learns to reason like us — only then does it become something more._"  
 > **– Madhur Chaudhary**
 
 ---
