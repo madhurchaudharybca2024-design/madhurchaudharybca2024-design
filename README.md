@@ -1,7 +1,7 @@
 # 🤖 Hello, I'm Madhur Chaudhary! [![Profile Views](https://komarev.com/ghpvc/?username=madhurchaudharybca2024-design&style=flat-square)](https://github.com/madhurchaudharybca2024-design)
 
 Welcome to my GitHub!  
-I'm an **AI Engineer** with a love for Python and a mission to build intelligent solutions that make a difference.
+I'm an **AI Engineer** Aspiring Student with a love for Python and a mission to build intelligent solutions that make a difference.
 
 ---
 
@@ -57,7 +57,7 @@ _Stats widgets above update automatically with your latest commits, PRs, and str
 
 ---
 
-## 🏅 Certifications
+## 🏅 Certifications to be Achieved
 
 - 🟢 **OpenAI Certified Prompt Engineer**
 - 🟣 **TensorFlow Developer Certificate**
