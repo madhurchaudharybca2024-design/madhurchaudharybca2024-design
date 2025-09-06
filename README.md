@@ -7,11 +7,11 @@ I'm an **AI Engineer** Aspiring Student with a love for Python and a mission to 
 
 ## 🧠 About Me
 
-- 🚀 Experienced AI Engineer specializing in Python.
-- 🎯 Building smart systems, from ML models to automated pipelines.
-- 📚 Lifelong learner, always exploring the latest in AI, deep learning, and data engineering.
-- 🧾 Advocate for open-source, collaboration, and creative innovation.
-
+- 🚀 Aspiring AI Engineer getting hands on in Python.
+- 🎯 Loves to learn and Building smart systems, from ML models to automated pipelines.
+- 📚 Alswant want to beLifelong learner, exploring the latest in AI, deep learning, and data engineering.
+- 🧾 Leaning and Advocate for open-source, collaboration, and creative innovation.
+- 🚀 Gym Lover and Health Concious Human Being
 ---
 
 ## 🛠️ Skills & Tools
